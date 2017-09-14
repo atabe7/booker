@@ -8,15 +8,15 @@ export let initialMenuItems: Array<MenuItem> = [
         submenu: null
     },
     {
-        text: 'Countries',
+        text: 'Om oss',
         icon: 'glyphicon-flag',
-        route: '/countries',
+        route: '/omoss',
         submenu: null
     },
     {
-        text: 'Settings',
+        text: 'Logga in',
         icon: 'glyphicon-wrench',
-        route: '/settings',
+        route: '/loggain',
         submenu: null
     }
 ];
